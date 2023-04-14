@@ -1,0 +1,12 @@
+11
+Lovelace,Ada,E,77,89,69
+Kirk,James T.,E,80,68,88
+Bunny,Bugs,M,99,96,93
+Schmuckatelli,Joe,H,88,75,90
+Dipwart,Marvin,E,95,76,88
+Powers,Clutch,M,92,75,86
+Phebus,Billy Joe Bob,M,75,72,91
+Polinski,Axelrod,E,42,67,73
+Park,Nick,H,60,68,51
+Crack Corn,Jimmy,M,59,78,68
+Salieri,Antonio,H,67,87,77
